@@ -1,4 +1,5 @@
-# Coursera Specialization
-Applied Data Science by IBM
+# Python Specializations
 
-https://www.coursera.org/specializations/applied-data-science
+Coursera Python 3 Specialization
+Coursera Applied Data Science by IBM
+Udemy Complete Python 3 Bootcamp
